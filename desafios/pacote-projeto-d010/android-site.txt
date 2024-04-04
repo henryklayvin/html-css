@@ -61,5 +61,3 @@ Fale Conosco
             Então é isso! Espero que você tenha gostado do nosso artigo com essa curiosidade sobre o sistema Android e seu simpático mascote.
          
 Site criado por Gustavo Guanabara para o CursoemVideo.
-
-Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
