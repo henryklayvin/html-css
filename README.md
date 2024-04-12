@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://henryklayvin.github.io/html-css/desafios/d010/">Executar o desafio 10</a>
+<a href="https://henryklayvin.github.io/" target="_blank" >Executar os desafios e exercícios</a>
